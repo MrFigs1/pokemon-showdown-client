@@ -36348,3 +36348,5 @@ BattleMoveAnims['elementalarrow'] = {anim: BattleMoveAnims['triattack'].anim};
 BattleMoveAnims['surprisepop'] = {anim: BattleMoveAnims['mistyexplosion'].anim};
 BattleMoveAnims['shellexplosion'] = {anim: BattleMoveAnims['explosion'].anim};
 BattleMoveAnims['petrifyingglare'] = {anim: BattleMoveAnims['meanlook'].anim};
+BattleMoveAnims['hulahoopblast'] = {anim: BattleMoveAnims['discharge'].anim};
+BattleMoveAnims['spiralhorncharge'] = {anim: BattleMoveAnims['hornleech'].anim};
