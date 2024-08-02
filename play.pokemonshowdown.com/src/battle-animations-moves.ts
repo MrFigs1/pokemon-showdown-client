@@ -36350,3 +36350,4 @@ BattleMoveAnims['shellexplosion'] = {anim: BattleMoveAnims['explosion'].anim};
 BattleMoveAnims['petrifyingglare'] = {anim: BattleMoveAnims['meanlook'].anim};
 BattleMoveAnims['hulahoopblast'] = {anim: BattleMoveAnims['discharge'].anim};
 BattleMoveAnims['spiralhorncharge'] = {anim: BattleMoveAnims['hornleech'].anim};
+BattleMoveAnims['foldingstrike'] = {anim: BattleMoveAnims['smartstrike'].anim};
