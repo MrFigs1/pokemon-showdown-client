@@ -36357,3 +36357,4 @@ BattleMoveAnims['balefulhowl'] = {anim: BattleMoveAnims['hypervoice'].anim};
 BattleMoveAnims['sleepbubble'] = {anim: BattleMoveAnims['sludgebomb'].anim};
 BattleMoveAnims['barbedsmash'] = {anim: BattleMoveAnims['ceaselessedge'].anim};
 BattleMoveAnims['druidshorn'] = {anim: BattleMoveAnims['hornleech'].anim};
+BattleMoveAnims['dewblast'] = {anim: BattleMoveAnims['hydropump'].anim};
